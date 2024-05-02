@@ -13,7 +13,7 @@ const Hero = () => {
             {/* Left Side */}
             <div className='flex flex-col items-start gap-2'    >
                 <h1 className='font-bold text-3xl'>
-                    Hello Welcome to the website
+                    Hello Welcome to my website
                 </h1>
                 <p className='w-96'>
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque, ad praesentium culpa enim soluta voluptate eos incidunt voluptatibus nesciunt in inventore nulla dicta corrupti, minima rem, dolorum doloremque ducimus fuga!
